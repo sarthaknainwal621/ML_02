@@ -1,0 +1,41 @@
+Course_ID,Course_name,Credits,Department,Year
+C101,Fundamentals of IT,4,Computer Science,1
+C102,Basic Mathematics,3,Mathematics,1
+C103,English Communication,2,Soft Skills,1
+C104,Physics,3,Science,1
+C105,Introduction to Programming,3,Computer Science,1
+C106,Programming Lab,1,Computer Science,1
+C107,Math Lab,1,Mathematics,1
+C108,IT Workshop,1,Computer Science,1
+C109,Physics Lab,1,Science,1
+C110,Logic Design,3,Electronics,1
+C201,Data Structures,4,Computer Science,2
+C202,Discrete Mathematics,3,Mathematics,2
+C203,Algorithms,3,Computer Science,2
+C204,Environmental Science,2,Science,2
+C205,Computer Architecture,4,Computer Science,2
+C206,Data Structures Lab,1,Computer Science,2
+C207,Algorithm Lab,1,Computer Science,2
+C208,Discrete Math Lab,1,Mathematics,2
+C209,Science Lab,1,Science,2
+C210,Electronics Workshop,2,Electronics,2
+C301,Machine Learning,4,Computer Science,3
+C302,DBMS,3,Computer Science,3
+C303,CBNST,3,Mathematics,3
+C304,Elective,3,Electives,3
+C305,Career Skills,2,Soft Skills,3
+C306,Operating System,4,Computer Science,3
+C307,OS_LAB,1,Computer Science,3
+C308,CBNST_LAB,1,Mathematics,3
+C309,DBMS_LAB,1,Computer Science,3
+C310,XCS_LAB,1,Computer Science,3
+C401,Artificial Intelligence,4,Computer Science,4
+C402,Big Data Analytics,3,Computer Science,4
+C403,Cybersecurity,3,Computer Science,4
+C404,Soft Skills,2,Soft Skills,4
+C405,Distributed Systems,4,Computer Science,4
+C406,AI Lab,1,Computer Science,4
+C407,Big Data Lab,1,Computer Science,4
+C408,Networking Lab,1,Computer Science,4
+C409,Cloud Computing Lab,1,Computer Science,4
+C410,Research Seminar,2,Research,4
